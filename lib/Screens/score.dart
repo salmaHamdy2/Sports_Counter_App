@@ -1,5 +1,5 @@
 
-import 'package:basketball_points_counter_app/components/column.dart';
+import 'package:basketball_points_counter_app/Components/column.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
