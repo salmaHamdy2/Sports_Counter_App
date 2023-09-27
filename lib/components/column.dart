@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class MyColumn extends StatefulWidget {
-   MyColumn({this.img,this.txt,this.var_});
+   MyColumn({super.key, this.img,this.txt,this.var_});
 String? img;
 String? txt;
 int? var_;
